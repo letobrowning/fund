@@ -1,0 +1,46 @@
+Array
+(
+    [sum_profit] => 0.0011022787084023
+    [sum_withdrawn] => 0
+    [sum_available] => 0
+    [stat] => Array
+        (
+            [0] => Array
+                (
+                    [user] => Array
+                        (
+                            [wallet] => 3JGBHqmp9ihTVQZ2yRcewVEWmKZp7phE5r
+                            [email] => testemail@test.com
+                            [created_ts] => 1552091681
+                        )
+
+                    [balance] => 0.0039
+                    [plan_stat] => Array
+                        (
+                            [all_count] => 1
+                            [pending_count] => 0
+                            [need_to_decide_count] => 0
+                            [sum_income] => 8.9152593540725E-6
+                            [sum_body] => 0.0052255921318264
+                        )
+
+                    [admin_income] => Array
+                        (
+                            [generated] => 0.0011022787084023
+                            [from_deposit_topups] => 0.001
+                            [from_deposit_withdrawals] => 0
+                            [from_plan_topups] => 0.0001
+                            [from_plan_withdrawals] => Array
+                                (
+                                    [fees] => 0
+                                    [penalties] => 0
+                                )
+
+                            [from_plan_reinvestments] => 2.2787084022865E-6
+                        )
+
+                )
+
+        )
+
+)

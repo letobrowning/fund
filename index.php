@@ -1,0 +1,1 @@
+<?php $basedir = '/var/www/html'; include ($basedir . '/init.php'); include ($basedir . '/frontend/frontend.php'); 

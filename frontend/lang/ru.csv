@@ -1,0 +1,168 @@
+Password,Пароль
+Name,Имя
+"Register Form","Форма регистрации"
+"Sign In",Войти
+Register,Зарегистрироваться
+Email,Email
+"User exist","Пользователь с таким Email существует"
+"Wrong data","Неверные данные"
+plan-all_count_pending_count_need_to_decide_count,"Все/На рассм./Жд. реш."
+plan-sum_income,"Plan income"
+admin_income-from_deposit_topups-from_deposit_withdrawals,"Доход адм. / Пополнения адм. / Выводы адм."
+admin_income-generated,"Доход администратора"
+plan-sum_body,"Тела планов"
+admin_income-from_plan_topups,"adm. inc. plan topopup"
+admin_income-from_plan_withdrawals-fees-penalties,"adm. inc. P. withd. pen."
+admin_income-from_plan_reinvestments,"adm. inc. reinvest"
+main_page1,"<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h4 class=""text-center"" style=""font-family: 'Source Sans Pro', sans-serif; line-height: 1.1; color: #333333; margin-top: 20px; margin-bottom: 10px; font-size: 24px; background-color: #ffffff; text-align: center;"">Лучшие цифровые активы в правильной пропорции<br />Под надежным контролем в самом защищенном хранилище в МИРЕ</h4>
+</body>
+</html>"
+main_page_t1,"Инвестиция Крипто Индекс"
+main_page_t2,"Как мы работаем ICI"
+main_page_t3,"КУПИТЕ INDEX В ОДИН КЛИК!"
+main_page_t4,"BETTER, THAN ""BUY AND HOLD"""
+main_page_t5,"ЭКОНОМЬТЕ ВРЕМЯ И НЕРВЫ"
+main_page_text3,"<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h3 class=""text-center"" style=""font-family: 'Source Sans Pro', sans-serif; line-height: 1.1; color: #333333; margin-top: 20px; margin-bottom: 10px; font-size: 24px; text-align: center; background-color: #ffffff;"">Купите INDEX1, INDEX2, INDEX32<br />Ваши монеты будут автоматически распределны&nbsp;<br />в нашем надежном хранилище под Умным контролем роботов</h3>
+</body>
+</html>"
+"Unsufficient funds","Недостаточно средств"
+ERROR_INCORRECT_PARAMETERS,"Неверные параметры"
+"Пополнение депозита","Пополнение депозита"
+plan-sum_body_t,"Сумма по телам планов"
+"Show tranz","Показать транзакции"
+balance,Баланс
+plan-all_count_pending_count_need_to_decide_count_t,"Все транзакции на пополнение планов / Ожидается решение администратора / Ожидается решение пользователя"
+admin_income-from_deposit_topups-from_deposit_withdrawals_t,"Профит админ с пополнения/выводов"
+admin_income-from_plan_withdrawals-fees-penalties_t,"Профит админа с комиссий вывода с плана / штрафов за досрочный вывод"
+"Current comission","Текущая комиссия"
+"Comission to withdrawal","Комиссия на вывод"
+Yield,Доходность
+Days,"Длительность (дни)"
+body,Тело
+sum_percents,"Текущая доходность"
+sum_income,Прибыль
+"Tx Type",Тип
+"Tx Time",Время
+"Reject cause","Причина отказа"
+Amount,Сумма
+Fee,Комиссия
+Invest,Инвестировать
+Plans,Планы
+"User Profile","Кабинет инвестора"
+"BTC Wallet","BTC адрес для компенсации долгов"
+Balance,"Баланс по долгам"
+"Transactions history","История операций"
+TX_TYPE_PLAN_TOPUP,"Пополнение плана"
+STATUS_REJECTED,Отказ
+STATUS_APPROVED,Подтверждено
+TX_TYPE_PLAN_REINVEST,Реинвестирование
+TX_TYPE_PLAN_WITHDRAW,"Вывод с плана"
+STATUS_PENDING,Ожидание
+"End traslate","Закончить перевод"
+"Start traslate","Начать перевод"
+Update,Редактировать
+Create,Создать
+"Invest tranz","Сумма по транзакциям"
+"Users tx's withdrawal","Запросы на вывод"
+"Users tx's reinvest","Запросы на реинвестирование"
+Plan,План
+User,Пользователь
+"To Apply",Подтвердить
+Reject,Отказать
+"Reject to",Отказать
+Close,Закрыть
+"No data","Нет данных"
+"Amount to reinvest","Сумма для реинвестирования "
+"Apply checked","Подтвердить выбранные "
+"Amount to withdrawal","Сумма для вывода"
+"Topup wallet","Пополните кошелек"
+"to amount"," на сумму "
+dfsrg43tgdh,"или нажмите кнопку справа, для вывода тем, кому достанется."
+TX_TYPE_PLAN_INCOME,"Перевод прибыли в тело плана"
+"See tranz","История транзакций"
+"Time send","Время отправки"
+"Time aprove","Подтверждено в"
+"Sum Income",Прибыль
+"Tx body",Тело
+"Reinvest income to body","Перевести прибыль в тело"
+Withdraw,Вывод
+Withdrawal,Вывести
+"Comission to popup","Комиссия на пополнение"
+"Withdrawal From","Вывод с "
+Income,Прибыль
+Percents,Проценты
+Min,Минимум
+"Amount to invest","Сумма инвестирования"
+"See tranz by users","Транзакции по пользователям"
+"See tranz by tx","Транзакции по транзакциям "
+"Set reason","Укажите причину"
+Sumbit,Подтвердить
+"Submit to","Подтвердить для "
+"Set wallet","Укажите адрес отправления!"
+Wallet,Адрес
+Reason,Причина
+"BTC Profit Wallet","BTC Адрес для прибыли"
+"Profit Balance",Прибыль
+"Admin panel","Панель управления"
+Error,Ошибка
+Success,Успешно
+"Login Form",Вход
+Confirmations,Подтвержд.
+"Admin cabinet",Главная
+"Plans invest",Инвестиции
+"System fee",Комиссии
+Clients,Клиенты
+"Clients tranz",Транзакции
+"Admin stat",Статистика
+"MAIN NAVIGATION",МЕНЮ
+"Stat by user","Статистика по пользователям"
+"Generatl stat","Общая статистика"
+"Wthdraw profit","Вывести прибыль"
+Exit,Выход
+Cabinet,Кабинет
+"More info",Блокчейн
+"Wrong rekapcha","Ошибка рекапчи"
+"Email or password error","Логин или пароль неверные"
+Translate,Перевод
+"Show editor",Редактор
+Home,Главная
+Phone,Телефон
+City,Город
+"Update success","Успешно изменили"
+Type,Тип
+"BTC Fee Tx","BTC комиссия в сатоши/байт"
+user,Пользователь
+sum_profit,"Суммарный доход администратора с комиссий"
+sum_withdrawn,"Выведено администратором"
+sum_em_topped_up,"Пополнено администратором"
+sum_available,"Доступно для вывода"
+total_tx_fee_real,"Суммарно уплачено по сетевым комиссиям"
+Content,Контент
+Title,Заголовок
+"Create page","Создать страницу"
+Titile,Заголовок
+menus,Меню
+pages,Страницы
+categorys,Категории
+"Create category","Создать категорию"
+articles,Записи
+Category,Категория
+Time,Время
+"Publish time","Время публикации"
+Pages,Страницы
+"Only for loged in","Только для авторизованных"
+PLAN_TYPE_TRADING,"Smart Trading"
+PLAN_TYPE_MINING,"Smart MIning"
+PLAN_TYPE_INDEX,"Smart Index"
+"user BTC Wallet","BTC адрес"
+"user Balance",Баланс

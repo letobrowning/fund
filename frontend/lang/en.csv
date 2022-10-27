@@ -1,0 +1,168 @@
+Password,Password
+"Register Form","Register form"
+"Sign In","Sign In"
+Register,Register
+Email,Email
+"User exist","User exist"
+"Wrong data","Wrong data"
+plan-all_count_pending_count_need_to_decide_count,All/Pending/NTD
+plan-sum_income,"Plan income"
+admin_income-from_deposit_topups-from_deposit_withdrawals,"Admin income / Admin topped up / Admin withdrawn"
+admin_income-generated,"Admin's income"
+plan-sum_body,"Plans body"
+admin_income-from_plan_topups,"adm. inc. plan topopup"
+admin_income-from_plan_withdrawals-fees-penalties,"adm. inc. P. withd. pen."
+admin_income-from_plan_reinvestments,"adm. inc. reinvest"
+main_page1,"<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><em>English</em> <strong>text&nbsp;</strong></p>
+</body>
+</html>"
+main_page_t1,"Инвестиция Крипто Индекс"
+main_page_t2,"Как мы работаем ICI"
+main_page_t3,"КУПИТЕ INDEX В ОДИН КЛИК!"
+main_page_t4,"BETTER, THAN ""BUY AND HOLD"""
+main_page_t5,"ЭКОНОМЬТЕ ВРЕМЯ И НЕРВЫ"
+main_page_text3,"<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h3 class=""text-center"" style=""font-family: 'Source Sans Pro', sans-serif; line-height: 1.1; color: #333333; margin-top: 20px; margin-bottom: 10px; font-size: 24px; text-align: center; background-color: #ffffff;"">Купите INDEX1, INDEX2, INDEX3&nbsp;<br />Ваши монеты будут автоматически распределны&nbsp;<br />в нашем надежном хранилище под Умным контролем роботов</h3>
+</body>
+</html>"
+"Unsufficient funds","Unsufficient funds"
+ERROR_INCORRECT_PARAMETERS,"ERROR INCORRECT PARAMETERS"
+"Пополнение депозита","Deposit Topup"
+plan-sum_body_t,"Summary of all plan bodies of user"
+"Show tranz","Show tranz"
+balance,Balance
+plan-all_count_pending_count_need_to_decide_count_t,"All plan topup transactions / Pending / In need to decide by user"
+admin_income-from_deposit_topups-from_deposit_withdrawals_t,"Admin income from deposit topops / deposit withdrawals"
+admin_income-from_plan_withdrawals-fees-penalties_t,"Admin income from plan withdrawals fee / penaltis fee"
+"Current comission","Current comission"
+"Comission to withdrawal","Comission to withdrawal"
+Yield,Yield
+Days,Days
+body,body
+sum_percents,"Sum. percents"
+sum_income,"Sum income"
+"Tx Type",Type
+"Tx Time",Time
+"Reject cause","Reject cause"
+Amount,Amount
+Fee,Fee
+Invest,Invest
+Plans,Plans
+"User Profile","Investor cabinet"
+"BTC Wallet","BTC wallet for debt topups"
+Balance,"Debt balance"
+"Transactions history","Transactions history"
+TX_TYPE_PLAN_TOPUP,"Plan topup"
+STATUS_REJECTED,Rejected
+STATUS_APPROVED,Approved
+TX_TYPE_PLAN_REINVEST,Reinvest
+TX_TYPE_PLAN_WITHDRAW,"Plan withdraw"
+STATUS_PENDING,Pending
+"End traslate","End traslate"
+"Start traslate","Start traslate"
+Update,Update
+Create,Create
+"Invest tranz","Invest tranz"
+"Users tx's withdrawal","Users tx's withdrawal"
+"Users tx's reinvest","Users tx's reinvest"
+Plan,Plan
+User,User
+"To Apply","To Apply"
+Reject,Reject
+"Reject to","Reject to"
+Close,Close
+"No data","No data"
+"Amount to reinvest","Amount to reinvest"
+"Apply checked","Apply checked"
+"Amount to withdrawal","Amount to withdrawal"
+"Topup wallet","Topup wallet"
+"to amount"," with amount "
+dfsrg43tgdh," or just press the button in order to apply the inquiries in a sequence until your funds are reached"
+TX_TYPE_PLAN_INCOME,"Pplan Income"
+"See tranz","See tranz"
+"Time send","Time send"
+"Time aprove","Time aprove"
+"Sum Income","Sum Income"
+"Tx body","Tx body"
+"Reinvest income to body","Reinvest income to body"
+Withdraw,Withdraw
+Withdrawal,Withdrawal
+"Comission to popup","Comission to popup"
+"Withdrawal From","Withdrawal From"
+Income,Income
+Percents,Percents
+Min,Min
+"Amount to invest","Amount to invest"
+"See tranz by users","See tranz by users"
+"See tranz by tx","See tranz by tx"
+"Set reason","Set reason"
+Sumbit,Submit
+"Submit to","Submit to"
+"Set wallet","Set wallet!"
+Wallet,Wallet
+Reason,Reason
+"BTC Profit Wallet","BTC Profit Wallet"
+"Profit Balance","Profit Balance"
+"Admin panel","Admin panel"
+Error,Error
+Success,Success
+"Login Form","Login Form"
+Confirmations,Confirmations
+"Admin cabinet","Admin cabinet"
+"Plans invest","Plans invest"
+"System fee","System fee"
+Clients,Clients
+"Clients tranz","Clients tranz"
+"Admin stat","Admin stat"
+"MAIN NAVIGATION","MAIN NAVIGATION"
+"Stat by user","Stat by user"
+"Generatl stat","General stat"
+"Wthdraw profit","Withdraw profit"
+Exit,Exit
+Cabinet,Cabinet
+"More info",Blockchain
+"Wrong rekapcha","Wrong rekapcha"
+"Email or password error","Email or password error"
+Translate,Translate
+"Show editor","Show editor"
+Home,Home
+Name,Name
+Phone,Phone
+City,City
+"Update success","Update success"
+Type,Type
+"BTC Fee Tx","BTC TX Fee in satoshis per byte"
+user,User
+sum_profit,"Summary gross profit in commissions"
+sum_withdrawn,"Summary of admin's withdrawals"
+sum_em_topped_up,"Summary of admin's top ups"
+sum_available,"Available for withdraw"
+total_tx_fee_real,"Total network fees, paid by admin"
+Content,Content
+Title,Title
+"Create page","Create page"
+Titile,Title
+menus,Menu
+pages,Pages
+categorys,Categories
+"Create category","Create category"
+articles,Articles
+Category,Category
+Time,Time
+"Publish time","Publish time"
+Pages,Pages
+"Only for loged in","Only for logged in"
+PLAN_TYPE_TRADING,"Smart Trading"
+PLAN_TYPE_MINING,"Smart MIning"
+PLAN_TYPE_INDEX,"Smart Index"
+"user BTC Wallet","BTC Wallet"
+"user Balance",Balance
